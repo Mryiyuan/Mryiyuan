@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mryiyuan
 - 👀 I’m interested in XXXX
 - 🌱 I’m currently learning frontEnd and computer vision
-- 💞️ I’m a programmer in China
+- 💞️ I was a international student at UD and I am a programmer in China now
 - 📫 How to reach me :LCC950316@outlook.com
 
 <!---
