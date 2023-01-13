@@ -2,7 +2,7 @@
 - 😊 I am working in Zhengzhou
 - 👀 I’m interested in XXXX
 - 🌱 I’m currently learning frontEnd and computer vision 
-- 💞️ I was a international student at University of Dayton and I am a programmer in China now
+- 💞️ I was a international student at University of Dayton and major is computer science
 - 📫 How to reach me : LCC950316@outlook.com
 
 
